@@ -1,0 +1,44 @@
+body {
+    font-family: Courier;
+    margin: 0;
+    padding: 0;
+    background-color: #cbcbcb;
+}
+header {
+    background-color: #80b8ef;
+    color: #000000;
+    padding: 30px 0;
+    text-align: center;
+}
+main {
+    font-family: Consolas, monospace;  
+    background-color: #f9f9f7;
+    padding: 30px 40px;
+    width: 100%;
+    float: left;
+}
+aside {
+    background-color: #ffffff;
+    font-family: sans-serif;
+    font-size: 12px;
+    padding: 10px 15px;
+    width: 25%;
+    float: right;
+}
+footer {
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    clear: both;
+}
+
+#contato {
+    color: #f30d0d;
+    font-family: Verdana;   /* Fonte "Antique" não aparece, no lugar, usei essa.  */
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
